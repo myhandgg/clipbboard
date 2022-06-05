@@ -43,7 +43,7 @@ body{
 /* Start Header */
 
 header{
-    background-image: url(../../images/bg-header-desktop.png);
+    background-image: url(bg-header-desktop.png);
     background-repeat: no-repeat;
 }
 
@@ -76,7 +76,7 @@ header .container .buttons a:hover{
 
 @media (max-width:375px){
     header{
-        background-image: url(../../images/bg-header-mobile.png);
+        background-image: url(bg-header-mobile.png);
     }
     header .buttons{
         flex-direction: column;
